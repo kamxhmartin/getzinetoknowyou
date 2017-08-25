@@ -48,5 +48,6 @@ Come together and share your zines. Was there anything that you didn't know abou
 
 ## Acknowledgments
 
+* Kara Carrell (@KaraAJC)
 * Write/Speak/Code
 * Team at Magic-Wrighter# getzinetoknowyou
