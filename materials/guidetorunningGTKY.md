@@ -1,6 +1,6 @@
 # Running : Get-Zine To Know You
 
-## Setup:
+## Setup
 (15 minutes)
 ### Get your materials
 - Spread out papers
