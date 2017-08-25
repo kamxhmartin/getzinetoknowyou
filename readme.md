@@ -50,4 +50,4 @@ Come together and share your zines. Was there anything that you didn't know abou
 
 * Kara Carrell (@KaraAJC)
 * Write/Speak/Code
-* Team at Magic-Wrighter# getzinetoknowyou
+* Team at Magic-Wrighter
