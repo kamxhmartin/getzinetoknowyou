@@ -1,4 +1,4 @@
-# Getting to Know You
+# Get-zine to Know You
 
 This is a workshop developed by Kal Keckler, for the purpose of team building and self reflection. It was born out of the alumnx project at Write/Speak/Code 2017 as a cross between Amy Wibowo's (@sailorhg) "Writing a Technical Zine" workshop and Allion McMillian's (@allie_p) "You Better Work...Shop" workshop. 
 
