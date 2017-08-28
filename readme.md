@@ -49,5 +49,7 @@ Come together and share your zines. Was there anything that you didn't know abou
 ## Acknowledgments
 
 * Kara Carrell (@KaraAJC)
-* Write/Speak/Code
+* Rebecca Long (@amaya30)
+* Doktor Rie
+* Write/Speak/Code (The whole organization!)
 * Team at Magic-Wrighter
