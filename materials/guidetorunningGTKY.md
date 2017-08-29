@@ -41,7 +41,7 @@
 - Pass until you get back to your own zine
 
 ## Discussion
-(30 miutes)
+(30 minutes)
 ### Likes
 - What did you like?
 - What was your favorite part?
