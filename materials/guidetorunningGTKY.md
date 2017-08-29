@@ -5,6 +5,7 @@
 ### Get your materials
 - Spread out papers
 - Allow participants to pick out their colors
+- Get out your smartphone, tablet, laptop, anything that has an internet connection
 ### Review Presentation
 
 ## Introduction
