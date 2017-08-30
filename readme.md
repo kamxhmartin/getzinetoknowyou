@@ -46,6 +46,8 @@ This is when you discuss the purpose of the workshop. What possible situations c
 
 Come together and share your zines. Was there anything that you didn't know about your coworkers? Or your teams? 
 
+Feedback form: https://goo.gl/forms/rAoFEAaJfEOU8far1
+
 ## Acknowledgments
 
 * Kara Carrell (@KaraAJC)
